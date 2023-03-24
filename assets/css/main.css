@@ -9,7 +9,7 @@
 }
 
 body{
-    min-height: 100vh;
+    min-height: 100%;
     background: linear-gradient(#1e1744,#8575de);
     overflow-x: hidden;
     
@@ -31,11 +31,11 @@ header{
     align-items: center;
     z-index: 1000;
 }
-@media(max-width:660px){
+/* @media(max-width:660px){
    header{
     padding: 30px 20px 30px 20px;
     }
-}
+} */
 
 header .logo{
 color: #fff;
