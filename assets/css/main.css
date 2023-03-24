@@ -10,6 +10,7 @@
 
 body{
     min-height: 100%;
+    min-width: 100%;
     background: linear-gradient(#1e1744,#8575de);
     overflow-x: hidden;
     
